@@ -1,7 +1,7 @@
 {
   "name": "imap-email-collector",
   "version": "1.0.0",
-  "description": "",
+  "description": "Imap Email Collector is a program to extract email addresses from your mail",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
