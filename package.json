@@ -1,0 +1,19 @@
+{
+  "name": "imap-email-collector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["imap", "address", "collect", "scrape", "emails", "email"],
+  "author": "https://t.me/alchemy_meow",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "exceljs": "^4.3.0",
+    "imapflow": "^1.0.144",
+    "moment": "^2.29.4",
+    "validator": "^13.11.0"
+  }
+}
