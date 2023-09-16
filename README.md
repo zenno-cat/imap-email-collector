@@ -1,6 +1,6 @@
 #IMAP EMAIL COLLECTOR📧
 
-![imap collector banner](img.png)
+![imap collector banner](img.png | width=100%)
 
 Imap Email Collector is a program to extract email addresses from your mail
 
@@ -23,4 +23,4 @@ How to use?
 
 Now you can start working with the project🐱
 if my project helped you, you can thank me, in the current period it will help me a lot
-[![buymeacoffee button](bmc-button.png)]([https://play.google.com/store/apps/details?id=cafe.adriel.chroma](https://www.buymeacoffee.com/alchemymeow))
+[![buymeacoffee button](bmc-button.png | width=200px)]([https://play.google.com/store/apps/details?id=cafe.adriel.chroma](https://www.buymeacoffee.com/alchemymeow))
