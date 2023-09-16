@@ -1,4 +1,4 @@
-#IMAP EMAIL COLLECTOR📧
+# IMAP EMAIL COLLECTOR📧
 
 ![imap collector banner](img.png)
 
