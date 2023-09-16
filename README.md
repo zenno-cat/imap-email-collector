@@ -1,6 +1,6 @@
 # IMAP EMAIL COLLECTOR📧
 
-![imap collector banner](img.png)
+<img src="img.png" alt="imap collector banner" width="100%">
 
 Imap Email Collector is a program to extract email addresses from your mail
 
