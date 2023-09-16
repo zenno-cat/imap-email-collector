@@ -1,5 +1,5 @@
 <h1>IMAP EMAIL COLLECTOR📧</h1>
-<img src="/alchemymeow/imap-email-collect/raw/master/img.png" alt="imap collector banner" style="max-width: 100%">
+<img src="./img.png" alt="imap collector banner" style="max-width: 100%">
 <p>Program features</p>
 <ul>
      <ol>
@@ -17,7 +17,7 @@
      <ol>First you need to install node.js on your PC✅</ol>
      <ol>Next download this repository and run the command npm i✅</ol>
      <ol>In the project directory, create a .env file✅</ol>
-     <ol>Inside the .env file there should be 4 variables HOST, USER, PASS, PORT, <strong>the data below is for example (you need to replace them with your own, the mail can be anything that supports IMAP access, not just Gmail</ strong>✅)
+     <ol>Inside the .env file there should be 4 variables HOST, USER, PASS, PORT, <strong>the data below is for example (you need to replace them with your own, the mail can be anything that supports IMAP access, not just Gmail</strong>✅)
        <ul>
          <li>
            HOST=imap.gmail.com
@@ -42,7 +42,7 @@
 <p>
   if my project helped you, you can thank me, in the current period it will help me a lot
   <a href="https://www.buymeacoffee.com/alchemymeow">
-    <img src="/alchemymeow/imap-email-collect/raw/master/bmc-button.png" alt="buymeacoffee banner">
+    <img src="./bmc-button.png" alt="buymeacoffee banner">
   </a>
   <img>
 </p>
