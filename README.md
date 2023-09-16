@@ -39,10 +39,11 @@
 <p>
    Now you can start working with the project🐱
 </p>
-<p style="display: flex; align-items: center; justify-content: space-between;">
+<p>
   if my project helped you, you can thank me, in the current period it will help me a lot
-  <a href="https://www.buymeacoffee.com/alchemymeow" target="_blank">
-    <img src="./bmc-button.png" alt="buymeacoffee banner" style="width: 200px;">
-  </a>
-  <img>
+</p>
+<p>
+     <a href="https://www.buymeacoffee.com/alchemymeow" target="_blank">
+         <img src="./bmc-button.png" alt="buymeacoffee banner" style="width: 200px;">
+     </a>
 </p>
