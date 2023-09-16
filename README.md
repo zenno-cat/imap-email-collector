@@ -23,4 +23,7 @@ How to use?
 
 Now you can start working with the project🐱
 if my project helped you, you can thank me, in the current period it will help me a lot
-[![buymeacoffee button](bmc-button.png)]([https://play.google.com/store/apps/details?id=cafe.adriel.chroma](https://www.buymeacoffee.com/alchemymeow))
+
+<a href="https://www.buymeacoffee.com/alchemymeow">
+    <img src="bmc-button.png" alt="buymeacoffee button" style="width: 200px;">
+</a>
