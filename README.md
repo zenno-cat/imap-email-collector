@@ -41,8 +41,8 @@
 </p>
 <p>
   if my project helped you, you can thank me, in the current period it will help me a lot
-  <a href="https://www.buymeacoffee.com/alchemymeow">
-    <img src="./bmc-button.png" alt="buymeacoffee banner" style="max-width: 200px;">
+  <a href="https://www.buymeacoffee.com/alchemymeow" target="_blank">
+    <img src="./bmc-button.png" alt="buymeacoffee banner" style="width: 200px;">
   </a>
   <img>
 </p>
