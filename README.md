@@ -1,5 +1,5 @@
 <h1>IMAP EMAIL COLLECTOR📧</h1>
-<img src="./img.png" alt="imap collector banner" style="max-width: 100%">
+<img src="./img.png" alt="imap collector banner" style="width: 100%">
 <p>Program features</p>
 <ul>
      <ol>
@@ -42,7 +42,7 @@
 <p>
   if my project helped you, you can thank me, in the current period it will help me a lot
   <a href="https://www.buymeacoffee.com/alchemymeow">
-    <img src="./bmc-button.png" alt="buymeacoffee banner">
+    <img src="./bmc-button.png" alt="buymeacoffee banner" style="max-width: 200px;">
   </a>
   <img>
 </p>
