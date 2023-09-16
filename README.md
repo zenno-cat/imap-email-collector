@@ -2,22 +2,22 @@
 <img src="./img.png" alt="imap collector banner" style="width: 100%">
 <p>Program features</p>
 <ul>
-     <ol>
+     <li>
          Collecting mail from your mailboxes🔥
-     </ol>
-     <ol>
+     </li>
+     <li>
          The program collects data from all folders inside your mail🔥
-     </ol>
-     <ol>
+     </li>
+     <li>
          The result is saved in an excel file🔥
-     </ol>
+     </li>
 </ul>
 <p>How to use?</p>
 <ul>
-     <ol>First you need to install node.js on your PC✅</ol>
-     <ol>Next download this repository and run the command npm i✅</ol>
-     <ol>In the project directory, create a .env file✅</ol>
-     <ol>Inside the .env file there should be 4 variables HOST, USER, PASS, PORT, <strong>the data below is for example (you need to replace them with your own, the mail can be anything that supports IMAP access, not just Gmail</strong>✅)
+     <li>First you need to install node.js on your PC✅</li>
+     <li>Next download this repository and run the command npm i✅</li>
+     <li>In the project directory, create a .env file✅</li>
+     <li>Inside the .env file there should be 4 variables HOST, USER, PASS, PORT, <strong>the data below is for example (you need to replace them with your own, the mail can be anything that supports IMAP access, not just Gmail</strong>✅)
        <ul>
          <li>
            HOST=imap.gmail.com
@@ -32,9 +32,9 @@
            PORT=993
          </li>
        </ul>
-   </ol>
-   <ol>If you have completed the settings, you can open cmd and write the command <strong>node run start</strong> and the program will start collecting emails</ol>
-   <ol>The result will be saved in the directory with the program in the folder /result/*.xlsx in an excel file</ol>
+   </li>
+   <li>If you have completed the settings, you can open cmd and write the command <strong>node run start</strong> and the program will start collecting emails</li>
+   <li>The result will be saved in the directory with the program in the folder /result/*.xlsx in an excel file</li>
 </ul>
 <p>
    Now you can start working with the project🐱
